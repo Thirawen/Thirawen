@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Valentin Marty! 👋
 
-<!--
-**Thirawen/Thirawen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>👨‍🎓 Student at <a href="https://42perpignan.fr/">42 Perpignan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>👨‍⚕️ Physical Therapist at <a href="#">Medilac</a>
+</em></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const thai = {
+  code: [Dart, Javascript, Typescript, C, C++ , PHP, HTML, CSS],
+  stack: [Flutter, Symfony, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ hobbies: ["Crossfit", "rock climbing", "swimming"]
+}
+```

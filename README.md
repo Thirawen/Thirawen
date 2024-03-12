@@ -19,4 +19,4 @@ const val = {
 ```
 
 ## 42 school
-<center>[![vmarty's 42 stats](https://badge42.coday.fr/api/v2/cltltloa9108101p40npwmhlb/stats?cursusId=21&coalitionId=318)](https://github.com/Coday-meric/badge42)</center>
+[![vmarty's 42 stats](https://badge42.coday.fr/api/v2/cltltloa9108101p40npwmhlb/stats?cursusId=21&coalitionId=318)](https://github.com/Coday-meric/badge42)

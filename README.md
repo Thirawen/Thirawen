@@ -11,7 +11,7 @@ const val = {
     code: [Dart, Javascript, Typescript, C, C++ , PHP, HTML, CSS],
     stack: [Flutter, Symfony, Docker],
     communities: {
-        projectManager: "Lobbi",
+        coFounder: [Lobbi, 38bis],
         softwareEngineer: "CoreApp",
     },
     hobbies: ["Crossfit", "Rock climbing", "Swimming"]
